@@ -13,6 +13,15 @@ Content-Type: application/json
 
 ###
 
+POST {{baseUrl}}/products/
+Content-Type: application/json
+
+{
+  "title": "Томат",
+  "description": "томат я своей грядке рад"
+}
+###
+
 # получение продуктов
 GET {{baseUrl}}/products/
 Content-Type: application/json
