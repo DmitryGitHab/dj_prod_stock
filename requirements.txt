@@ -1,3 +1,6 @@
 django
 djangorestframework
 psycopg2-binary
+
+django-filter==0.9.2
+django-filters==0.1.0
