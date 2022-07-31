@@ -20,8 +20,8 @@ jobs:
           python -m pip install --upgrade pio
           pip install -r requirements.txt
 
-      - name: Lint project
-        run: flake8 .
+#      - name: Lint project
+#        run: flake8 .
 
       - name: Testing
         run: python manage.py test
