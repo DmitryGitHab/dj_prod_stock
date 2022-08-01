@@ -1,3 +1,5 @@
+[![Build Status](https://github.com/DmitryGitHab/dj_prod_stock/actions/workflows/cicd.yml/badga.svg)](https://github.com/DmitryGitHab/dj_prod_stock/actions/workflows/cicd.yml)
+
 # Склады и товары
 
 ## Техническая задача: реализовать CRUD-логику для продуктов и складов, используя Django Rest Framework.
