@@ -1,4 +1,4 @@
-[![Build Status](https://github.com/DmitryGitHab/dj_prod_stock/actions/workflows/cicd.yml/badga.svg)](https://github.com/DmitryGitHab/dj_prod_stock/actions/workflows/cicd.yml)
+[![Build Status](https://github.com/DmitryGitHab/dj_prod_stock/actions/workflows/cicd.yml/badge.svg)](https://github.com/DmitryGitHab/dj_prod_stock/actions/workflows/cicd.yml)
 
 # Склады и товары
 
